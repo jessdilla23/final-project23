@@ -90,7 +90,15 @@
 				</div>
 			</div>
 		</div>
-	</footer><!-- #colophon -->
+	</footer>
+
+
+  Welcome <?php echo $_POST["name"];?><br>
+  Your E-mail address is: <?php echo $_POST["email"];?><br>
+  Your Subject is: <?php echo $POST["subject"]?><br>
+  Your Message is: <?php echo $POST["message"]?>
+
+<!-- #colophon -->
 </div><!-- #page -->
 <?php if( $minimal_portfolio_backto_top_status ): ?>
 	<a href="#page" class="back-to-top" id="back-to-top"><i class="icon-arrow-up"></i></a>
