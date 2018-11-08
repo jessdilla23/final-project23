@@ -28,9 +28,6 @@
 					<div class="col-md-12">
 						<ul class="site-info">
 							
-				
-	<?php get_footer(home);?>
-
 
 	</footer><!-- #colophon -->
 
