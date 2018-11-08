@@ -1,0 +1,60 @@
+/*
+ Theme Name:   Minimal Portfolio Child
+ Theme URI:    http://abileweb.com/portfolio/minimal-portfolio/
+ Description:  Minimal Portfolio Child Theme
+ Author:       Jessica O'Donnell
+ Template:     minimal-portfolio
+ Version:      1.0.5
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         Blog, Custom Background, Custom Header, Custom Logo, Custom Menu, Editor Style, Featured Images, Flexible Header, Footer Widgets, One Column, Photography, Portfolio, Right Sidebar, RTL Language Support, Theme Options, Threaded Comments, Translation Ready
+ Text Domain:  minimal-portfolio-child
+*/
+
+a.site-title{font-size: 30px;
+font-family: verdana;
+font-weight: bold;
+text-align: center;}
+
+p.site-description{font-family: verdana;
+font-size: 15px;}
+
+p{font-size: 20px;
+}
+
+p1{font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1.entry-title{text-align: center}
+
+
+.fa {padding: 10px;
+    font-size: 10px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.fa-linkedin {
+    background: #0077B5;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+
+
+
+
