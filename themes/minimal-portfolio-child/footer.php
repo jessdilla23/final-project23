@@ -28,19 +28,19 @@
 					<div class="col-md-12">
 						<ul class="site-info">
 							
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+			<a href="https://www.linkedin.com/in/jessodonnell23/" class="fa fa-linkedin"></a>
 
-	<a href="https://www.linkedin.com/in/jessodonnell23/" class="fa fa-linkedin"></a>
-	<a href="https://www.instagram.com/holyjesssus/" class="fa fa-instagram"></a>
-	<a href="https://twitter.com/holyjesssus" class="fa fa-twitter"></a><br>
+			<a href="https://www.instagram.com/holyjesssus/" class="fa fa-instagram"></a>
 
-	<br>
+			<a href="https://twitter.com/holyjesssus" class="fa fa-twitter"></a><br>
 
-	<p4>Copyright 2017 © Jessica O'Donnell </p4>
+			<br>
+
+			<p4>Copyright 2017 © Jessica O'Donnell </p4>
 
 	</footer><!-- #colophon -->
-
 
 </body>
 </html>
