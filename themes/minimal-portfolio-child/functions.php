@@ -14,8 +14,4 @@ function my_theme_enqueue_styles() {
 add_action( 'wp_enqueue_scripts', 'my_theme_enqueue_styles' );
 ?>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<a href="https://www.linkedin.com/in/jessodonnell23/" class="fa fa-linkedin"></a>
-<a href="https://www.instagram.com/holyjesssus/" class="fa fa-instagram"></a>
-<a href="https://twitter.com/holyjesssus" class="fa fa-twitter"></a>
