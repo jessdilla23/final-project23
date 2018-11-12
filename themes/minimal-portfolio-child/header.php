@@ -53,8 +53,6 @@
 	<?php $disable_page_title = get_post_meta( get_the_ID(), 'minimal_portfolio_page_title', true ); 
 		if( $disable_page_title !== 'on' ): ?>
 			<?php if( !is_front_page()):  ?>
-				<section class="page-header jumbotron <?php if ( get_header_image() ) : ?>bg-image<?php endif; ?>"  <?php if ( get_header_image() ) : ?> style="background-image:url('<?php echo esc_url( get_header_image() ); ?>');" <?php endif; ?>>
-				<?php if ( get_header_image() ) : ?><span class="bg-overlay"></span><?php endif; ?>
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12">
