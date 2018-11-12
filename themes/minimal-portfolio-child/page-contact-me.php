@@ -21,6 +21,31 @@ get_header();
 				<div id="primary" class="content-area">
 					<main id="main" class="site-main">
 
+						<p1> Contact Me </p1><br>
+						<p2>Feel free to reach out with any questions or comments. E-mail checked daily! 🙂</p2><br>
+
+
+						<form method="post" action="http://heyoitsjesso.com/submission-received/">
+
+						<form>
+							<label for="name">Your Name:</label>
+							<input type="text"/>
+
+							 
+							<label for="idlabel">Your Email:</label>
+							 <input type="email"/>
+
+							 <label for="subject">Subject:</label>
+							 <input type="email"/>
+
+						   <label for="message">Message:</label> <textarea name="label"    maxlength="800" rows="6"
+							cols="23"></textarea>
+
+							<input type="submit" value="Submit"/>
+	
+						</form>
+
+
 						<?php while ( have_posts() ) : the_post();
 				
 							get_template_part( 'template-parts/page/content', 'page' );
@@ -33,16 +58,6 @@ get_header();
 						endwhile; // End of the loop. ?>
 
 
-						
-<p1> Contact Me </p1>
-
-<form action="contactform.php" method="post">
-	Name: <input type="text" name="name"><br>
-	E-mail: <input type="text" name="email"><br>
-	Subject: <input type="text" name="subject"><br>
-	Message: <textarea name="message" rows="5" cols="40"></textarea><br>
-<input type="submit">
-</form>	
 
 					</main><!-- #main -->
 				</div><!-- #primary -->
