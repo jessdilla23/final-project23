@@ -28,15 +28,15 @@ get_header();
 
 						<form>
 							<label for="name">Your Name:</label>
-							<input type="text"/>
+							<input type="text" required="true"/><br>
 							 
-							 <label for="idlabel">Your Email:</label>
-							 <input type="email"/>
+							 <label for="email">Your Email:</label>
+							 <input type="email" required="true"/><br>
 
 							 <label for="subject">Subject:</label>
-							 <input type="email"/>
+							 <input type="email" required="true" />
 
-						     <label for="message">Message:</label> <textarea name="label"    maxlength="800" rows="6"
+						     <label for="message">Message:</label> <textarea name="label" required="true" maxlength="800" rows="6"
 							 cols="23"></textarea><br>
 
 							<input type="submit" value="Submit"/>
