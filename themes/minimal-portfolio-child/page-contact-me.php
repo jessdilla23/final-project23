@@ -39,7 +39,7 @@ get_header();
 							 <input type="email"/>
 
 						   <label for="message">Message:</label> <textarea name="label"    maxlength="800" rows="6"
-							cols="23"></textarea>
+							cols="23"></textarea><br>
 
 							<input type="submit" value="Submit"/>
 	
