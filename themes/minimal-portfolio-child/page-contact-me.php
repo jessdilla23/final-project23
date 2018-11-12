@@ -24,27 +24,24 @@ get_header();
 						<p1> Contact Me </p1><br>
 						<p2>Feel free to reach out with any questions or comments. E-mail checked daily! 🙂</p2><br>
 
-
 						<form method="post" action="http://heyoitsjesso.com/submission-received/">
 
 						<form>
 							<label for="name">Your Name:</label>
 							<input type="text"/>
-
 							 
-							<label for="idlabel">Your Email:</label>
+							 <label for="idlabel">Your Email:</label>
 							 <input type="email"/>
 
 							 <label for="subject">Subject:</label>
 							 <input type="email"/>
 
-						   <label for="message">Message:</label> <textarea name="label"    maxlength="800" rows="6"
-							cols="23"></textarea><br>
+						     <label for="message">Message:</label> <textarea name="label"    maxlength="800" rows="6"
+							 cols="23"></textarea><br>
 
 							<input type="submit" value="Submit"/>
 	
 						</form>
-
 
 						<?php while ( have_posts() ) : the_post();
 				
@@ -56,8 +53,6 @@ get_header();
 							endif;
 				
 						endwhile; // End of the loop. ?>
-
-
 
 					</main><!-- #main -->
 				</div><!-- #primary -->
