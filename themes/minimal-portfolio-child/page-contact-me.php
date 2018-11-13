@@ -34,7 +34,7 @@ get_header();
 							 <input type="email" required="true"/><br>
 
 							 <label for="subject">Subject:</label>
-							 <input type="email" required="true" />
+							 <input type="text" required="true" />
 
 						     <label for="message">Message:</label> <textarea name="label" required="true" maxlength="800" rows="6"
 							 cols="23"></textarea><br>
