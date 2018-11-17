@@ -32,7 +32,7 @@ get_header();
 				
 						endwhile; // End of the loop. ?>
 
-						<p style="text-align: center;"><iframe src="https://docs.google.com/document/d/e/2PACX-1vRUikrhPbgxlAj_12Y8JxKgV17Zu19T38SF6YHhOqi9PiJQxRFc6uWFoHlq9uuZhrAhP6n6JFPWp0Ld/pub?embedded=true" width="70%" height="1000px">&nbsp;</iframe>
+						<p style="text-align: center;"><iframe src="https://docs.google.com/document/d/e/2PACX-1vRUikrhPbgxlAj_12Y8JxKgV17Zu19T38SF6YHhOqi9PiJQxRFc6uWFoHlq9uuZhrAhP6n6JFPWp0Ld/pub?embedded=true" width="70%" height="1000px" frameborder="0" >&nbsp;</iframe>
 
 
 					</main><!-- #main -->
